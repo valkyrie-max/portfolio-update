@@ -1,0 +1,34 @@
+// colours 
+$black: #252525; 
+$mainBackground: #F1F8FF;
+$orangeUnderline: #FFB384;
+$blueUnderline: #84C1FF; 
+
+// fonts 
+@font-face {
+    font-family: "NunitoThin";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../assets/fonts/Nunito-Light.ttf");
+}
+
+@font-face {
+    font-family: "NunitoRegular";
+    font-weight: 500;
+    font-style: normal;
+    src: url("../assets/fonts/Nunito-Regular.ttf");
+}
+
+@font-face {
+    font-family: "NunitoBold";
+    font-weight: 600;
+    font-style: normal;
+    src: url("../assets/fonts/Nunito-Bold.ttf");
+}
+
+@font-face {
+    font-family: "NunitoBlack";
+    font-weight: 900;
+    font-style: normal;
+    src: url("../assets/fonts/Nunito-Black.ttf");
+}
